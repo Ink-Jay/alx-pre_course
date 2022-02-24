@@ -1,1 +1,1 @@
-ALX Sofware Engineering Program
+ALX Software Engineering Program
